@@ -1,4 +1,3 @@
-Thavaneshwaran Murugan:
 // Define the pin numbers for the traffic lights and buttons
 const int S1 = 2; // Green light on Warner St
 const int S2 = 3; // Green light on 1st St
