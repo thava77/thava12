@@ -23,3 +23,7 @@ http://192.168.192.238/v3/file?token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2
 -------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="English Movie",Thanksgiving (2023)
 http://192.168.192.128:10081/remote.php/dav/files/thava/movie/www.1TamilMV.im%20-%20Thanksgiving%20(2023)%20English%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD5.1%20-%20192Kbps%20%20AAC)%20-%201GB%20-%20ESub.mkv
+
+------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjMX7gBh/AVINASSH-IPTV.png" group-title="Web Series Tamil",Cheran's Journey(2024)
+http://192.168.192.128:10081/s/FsZPkEpP2o8Gncs/download/www.TamilYogi.plus%20%E2%80%93%20Tamil%20HD%20Movies%20Download%20%E2%80%93%20%E2%80%93%20TamilYogi%20Tamil%20HD%20Movies%20%E2%80%93%20www.TamilVip.me_3.ts
